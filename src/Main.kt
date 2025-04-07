@@ -1,7 +1,7 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
-    val ip = "0.0.0.0"
+    val ip = "192.1.1.0"
     val result = isValidIPv4(ip)
     println("Is IP valid? $result")
 }
